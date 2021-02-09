@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+### BUSINESS
+<a href="https://proxy01.its.virginia.edu/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=bth">Business Source Complete</a><br/> 
+<a href="https://proxy01.its.virginia.edu/login?url=https://global.factiva.com/en/sess/login.asp?xsid=S003cbsYXmnNdmnMDItMDIoMDAp5DByMU38ODJ9RcyqUUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEA">Factiva</a><br/>
+<a href="https://wrds-www.wharton.upenn.edu/">WRDS</a><br/>
 
-You can use the [editor on GitHub](https://github.com/jon-ashley/links.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### LAW
+<a href="http://www.bloomberglaw.com/">Bloomberg Law</a><br/>
+<a href="https://www.courtlistener.com/">CourtListener</a><br/>
+<a href="http://proxy.its.virginia.edu/login?url=https://heinonline.org/HOL/Welcome">HeinOnline</a><br/>
+<a href="http://lawschool.lexis.com/">Lexis</a><br/>
+<a href="https://lawschool.thomsonreuters.com/">Westlaw</a><br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### LEGAL DATA LAB
+<a href="http://lib.law.virginia.edu/Garrett/corporate-prosecution-registry/index.html">Corporate Prosecution Registry</a><br/>
+<a href="http://legaldatalab.law.virginia.edu/global-bank-prosecutions/">Global Bank Prosecutions (Verdier)</a><br/>
+<a href="http://legaldatalab.law.virginia.edu/">Legal Data Lab</a><br/>
+<a href="http://lib.law.virginia.edu/hedge_funds/">Hedge Fund Database</a><br/>
 
-### Markdown
+### LIBRARY
+<a href="https://www.amazon.com/">Amazon</a><br/>
+<a href="https://guides.lib.virginia.edu/journalfinder">Journal Finder</a><br/>
+<a href="https://www.law.virginia.edu/library">UVA Law Library</a><br/>
+<a href="https://search.lib.virginia.edu/">VIRGO</a><br/>
+<a href="https://firstsearch.oclc.org/WebZ/FSPrefs?entityjsdetect=:javascript=true:screensize=large:sessionid=fsapp4-37337-k577xljr-g4rpth:entitypagenum=1:0">WorldCat</a><br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### OTHER
+<a href="https://virginia.account.box.com/login">Box</a><br/>
+<a href="https://virginia-law.libwizard.com/f/facdelivery">Faculty Requests</a><br/>
+<a href="https://login.microsoftonline.com">Microsoft Portal</a><br/>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jon-ashley/links.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### RANDOM
+<a href="https://passwordsgenerator.net/">Password Generator</a><br/>
+<a href="https://www.random.org/">Random Number Generator</a><br/>
