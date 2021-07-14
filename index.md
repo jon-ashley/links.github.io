@@ -11,6 +11,7 @@
 <a href="https://lawschool.thomsonreuters.com/">Westlaw</a><br/>
 
 ### LEGAL DATA LAB
+<a href="https://legaldatalab.law.virginia.edu/brmag-judges/index.html">BR/MAG Judge Database</a><br/>
 <a href="http://lib.law.virginia.edu/Garrett/corporate-prosecution-registry/index.html">Corporate Prosecution Registry</a><br/>
 <a href="http://legaldatalab.law.virginia.edu/global-bank-prosecutions/">Global Bank Prosecutions (Verdier)</a><br/>
 <a href="http://legaldatalab.law.virginia.edu/">Legal Data Lab</a><br/>
