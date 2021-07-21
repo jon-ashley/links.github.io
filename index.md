@@ -14,8 +14,8 @@
 <a href="https://legaldatalab.law.virginia.edu/brmag-judges/index.html">BR/MAG Judge Database</a><br/>
 <a href="http://lib.law.virginia.edu/Garrett/corporate-prosecution-registry/index.html">Corporate Prosecution Registry</a><br/>
 <a href="http://legaldatalab.law.virginia.edu/global-bank-prosecutions/">Global Bank Prosecutions (Verdier)</a><br/>
-<a href="http://legaldatalab.law.virginia.edu/">Legal Data Lab</a><br/>
 <a href="http://lib.law.virginia.edu/hedge_funds/">Hedge Fund Database</a><br/>
+<a href="http://legaldatalab.law.virginia.edu/">Legal Data Lab</a><br/>
 
 ### LIBRARY
 <a href="https://www.amazon.com/">Amazon</a><br/>
